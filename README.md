@@ -97,11 +97,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - Collaborated with cross-functional teams
 - Optimized application performance and user experience
 
-## 🎓 Education
-
-**Bachelor of Computer Science** | University Name | 2016 - 2020
-- GPA: 3.8/4.0
-- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
 
 ## 🌟 What I'm Looking For
 
@@ -128,16 +123,6 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 - 🌍 I've visited 15+ countries and counting
 - 🎵 I listen to lo-fi while coding
 
-## 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting!** ⭐
-
-*Last updated: [Current Date]*
-<!-- Optionally, you can add more stats or custom widgets here -->
 
 
 [🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/your-username/project-name)
@@ -151,48 +136,6 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 - **Cloud Architecture** - Deep diving into AWS and Azure
 - **Mobile Development** - React Native and Flutter
 
-## 💼 Work Experience
-
-### Senior Developer | Company Name | 2022 - Present
-- Led development of scalable web applications
-- Mentored junior developers and conducted code reviews
-- Implemented CI/CD pipelines and DevOps practices
-
-### Full-Stack Developer | Company Name | 2020 - 2022
-- Developed and maintained multiple client projects
-- Collaborated with cross-functional teams
-- Optimized application performance and user experience
-
-## 🎓 Education
-
-**Bachelor of Computer Science** | University Name | 2016 - 2020
-- GPA: 3.8/4.0
-- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
-
-## 🌟 What I'm Looking For
-
-I'm passionate about:
-- **Innovative Projects** - Building solutions that make a difference
-- **Learning Opportunities** - Expanding my knowledge in emerging technologies
-- **Collaboration** - Working with talented teams on challenging problems
-- **Open Source** - Contributing to meaningful projects
-
-## 📫 Get In Touch
-
-I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
-## 🎯 Fun Facts
-
-- 🎮 I'm a gamer who loves strategy games
-- 📚 I read 2-3 tech books every month
-- ☕ I'm a coffee enthusiast (can't code without it!)
-- 🌍 I've visited 15+ countries and counting
-- 🎵 I listen to lo-fi while coding
 
 ## 📈 GitHub Activity
 
