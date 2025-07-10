@@ -85,18 +85,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - **Cloud Architecture** - Deep diving into AWS and Azure
 - **Mobile Development** - React Native and Flutter
 
-## 💼 Work Experience
-
-### Senior Developer | Company Name | 2022 - Present
-- Led development of scalable web applications
-- Mentored junior developers and conducted code reviews
-- Implemented CI/CD pipelines and DevOps practices
-
-### Full-Stack Developer | Company Name | 2020 - 2022
-- Developed and maintained multiple client projects
-- Collaborated with cross-functional teams
-- Optimized application performance and user experience
-
 
 ## 🌟 What I'm Looking For
 
