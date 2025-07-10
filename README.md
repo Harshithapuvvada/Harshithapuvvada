@@ -63,11 +63,16 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### Puvvada Harshitha's GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Puvvada Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puvvadaharshitha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puvvadaharshitha&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puvvadaharshitha&theme=radical)
+
+<!-- Optionally, you can add more stats or custom widgets here -->
 
 
 [🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/your-username/project-name)
@@ -124,6 +129,15 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 - 🌍 I've visited 15+ countries and counting
 - 🎵 I listen to lo-fi while coding
 
+## 📈 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting!** ⭐
+
+*Last updated: [Current Date]*
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
