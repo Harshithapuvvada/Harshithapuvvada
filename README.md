@@ -117,14 +117,6 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 
 
-## 📚 Currently Learning
-
-- **Machine Learning** - Exploring TensorFlow and PyTorch
-- **Blockchain Development** - Learning Solidity and Web3
-- **Cloud Architecture** - Deep diving into AWS and Azure
-- **Mobile Development** - React Native and Flutter
-
-
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
