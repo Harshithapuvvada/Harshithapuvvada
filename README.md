@@ -146,12 +146,3 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 ⭐ **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting!** ⭐
 
 *Last updated: [Current Date]*
-## 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting!** ⭐
-
-*Last updated: [Current Date]*
