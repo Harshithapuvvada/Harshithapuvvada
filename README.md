@@ -1,20 +1,5 @@
-## Hi there 👋
+# 👋 Hi there, I'm Puvvada Harshitha
 
-<!--
-**Harshithapuvvada/Harshithapuvvada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hi there, I'm Puvvada Harshitha
 ## 🚀 About Me
 
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source projects, or sharing knowledge with the developer community.
@@ -62,11 +47,14 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats & Activity
 
-## 📈 GitHub Activity
+### Harshithapuvvada's GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithapuvvada&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithapuvvada&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshithapuvvada&theme=radical) |
-|:---:|:---:|:---:|
+![Harshithapuvvada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithapuvvada&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithapuvvada&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshithapuvvada&theme=radical)
+
 <!-- Optionally, you can add more stats or custom widgets here -->
 
 
@@ -76,12 +64,28 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 📚 Currently Learning
 
-
-- **Cloud Architecture** - Deep diving into AWS and Azure
-- **Mobile Development** - React Native and Flutter
 - **Machine Learning** - Exploring TensorFlow and PyTorch
 - **Blockchain Development** - Learning Solidity and Web3
+- **Cloud Architecture** - Deep diving into AWS and Azure
+- **Mobile Development** - React Native and Flutter
 
+## 💼 Work Experience
+
+### Senior Developer | Company Name | 2022 - Present
+- Led development of scalable web applications
+- Mentored junior developers and conducted code reviews
+- Implemented CI/CD pipelines and DevOps practices
+
+### Full-Stack Developer | Company Name | 2020 - 2022
+- Developed and maintained multiple client projects
+- Collaborated with cross-functional teams
+- Optimized application performance and user experience
+
+## 🎓 Education
+
+**Bachelor of Computer Science** | University Name | 2016 - 2020
+- GPA: 3.8/4.0
+- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
 
 ## 🌟 What I'm Looking For
 
@@ -108,9 +112,52 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 - 🌍 I've visited 15+ countries and counting
 - 🎵 I listen to lo-fi while coding
 
+## 📈 GitHub Activity
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithapuvvada&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithapuvvada&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshithapuvvada&theme=radical) |
+|:---:|:---:|:---:|
 
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting!** ⭐
 
 *Last updated: [Current Date]*
+
+---
+
+### 1. **Animated SVG (Typing Effect)**
+You can use an SVG with a typing animation. Here’s an example using [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg):
+
+```markdown
+<code_block_to_apply_changes_from>
+```
+
+**How to use:**
+- Copy and paste the above code at the top of your README.md.
+- You can customize the text, color, font, and speed by editing the URL parameters.
+
+---
+
+### 2. **Animated GIF**
+You can create a custom animated GIF with your desired text animation and upload it to your repo or an image host, then embed it:
+
+```markdown
+![Hi there, this is Harshitha Puvvada - Web Developer](https://your-image-link.gif)
+```
+
+---
+
+### 3. **Static Markdown (No Animation)**
+If you want a bold, large, and colorful heading (but not animated):
+
+```markdown
+<h1 align="center">👋 Hi there, this is <span style="color:#00F7FF;">Harshitha Puvvada</span><br/>Web Developer</h1>
+```
+> Note: The `style` attribute is ignored on GitHub, so color will not work, but alignment and emoji will.
+
+---
+
+#### **Recommendation**
+For a typing animation, the SVG method is the most popular and works well on GitHub.
+
+Would you like me to add the animated SVG to your README.md for you? If yes, do you want to customize the text or colors?
