@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span title="Welcome to my GitHub profile!">👋 Hi there, I'm Puvvada Harshitha</span>
+👋 Hi there, I'm Puvvada Harshitha
 ## 🚀 About Me
 
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source projects, or sharing knowledge with the developer community.
